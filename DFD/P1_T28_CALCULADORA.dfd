@@ -1,0 +1,134 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+90
+" este programa es creado por felipe rodriguez y realice la Simulación de una calculadora"
+6
+1
+6
+opcion
+1
+9
+9
+1
+10
+opcion !=0
+4
+1
+90
+" escriba 1 para sumar; 2 para restar; 3 para  multiplicar; 4 para dividar y 0 para salir"
+5
+1
+6
+opcion
+7
+0
+1
+8
+opcion=1
+7
+0
+1
+8
+opcion=2
+7
+0
+1
+8
+opcion=3
+7
+0
+1
+8
+opcion=4
+4
+1
+31
+" esta opción no esta definida"
+13
+4
+1
+38
+" ingrese los dos numeros  a dividir "
+5
+1
+16
+numero1, numero2
+6
+1
+8
+ dividir
+15
+numero1/numero2
+4
+1
+30
+" el resultado es:" ,  dividir
+13
+13
+4
+1
+42
+" ingrese los dos numeros  a multiplicar "
+5
+1
+16
+numero1, numero2
+6
+1
+11
+multiplicar
+15
+número1*numero2
+4
+1
+33
+" el resultado es:" , multiplicar
+13
+13
+4
+1
+36
+" ingrese los dos numeros  a restar"
+5
+1
+16
+numero1, numero2
+6
+1
+5
+resta
+15
+numero1-numero2
+4
+1
+27
+" el resultado es:" , resta
+13
+13
+4
+1
+35
+" ingrese los dos numeros  a sumar"
+5
+1
+16
+numero1, numero2
+6
+1
+5
+suma 
+15
+número1+numero2
+4
+1
+26
+" el resultado es:" , suma
+13
+11
+1

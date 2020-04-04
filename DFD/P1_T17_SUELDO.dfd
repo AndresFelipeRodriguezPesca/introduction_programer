@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+76
+"este programa fue creado por felipe rodriguez y determina el sueldo ganado"
+4
+1
+32
+"ingrese el sueldo del empleado"
+5
+1
+6
+sueldo
+4
+1
+38
+"ingrese el numero de dias trabajados"
+5
+1
+4
+dias
+7
+0
+1
+30
+sueldo<0 or dias<0 or dias >30
+6
+1
+7
+salario
+16
+(sueldo/30)*dias
+4
+1
+41
+"el salario del empleado es de :",salario
+13
+4
+1
+77
+"error  el sueldo no puede ser inferior a 0 y los dias debe ser entre 1 y 31"
+13
+1

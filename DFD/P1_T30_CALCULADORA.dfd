@@ -1,0 +1,339 @@
+ Dfd (c)
+1
+1
+6
+0
+0
+12
+1
+6
+P_MENU
+0
+1
+2
+1
+6
+P_MENU
+0
+1
+106
+este programa me genera un menu donde  se visiualizan las opciones de calculadora  y me retoma una opcion 
+4
+1
+185
+"este programa simula una calculadora-creado por felipe rodriguez:
+1-Para sumar
+2-Para restar
+3-Para multiplicar
+4-Para dividir
+0-Para salir
+--------escriba una opcion-----------"
+5
+1
+8
+O_OPTION
+9
+1
+11
+O_OPTION!=0
+7
+0
+1
+10
+O_OPTION=1
+7
+0
+1
+10
+O_OPTION=2
+7
+0
+1
+10
+O_OPTION=3
+7
+0
+1
+10
+O_OPTION=4
+13
+12
+1
+9
+P_DIVIDIR
+0
+13
+13
+12
+1
+16
+P_MULTIPLICACION
+0
+13
+13
+12
+1
+7
+P_RESTA
+0
+13
+13
+12
+1
+6
+P_SUMA
+0
+13
+4
+1
+185
+"este programa simula una calculadora-creado por felipe rodriguez:
+1-Para sumar
+2-Para restar
+3-Para multiplicar
+4-Para dividir
+0-Para salir
+--------escriba una opcion-----------"
+5
+1
+8
+O_OPTION
+11
+3
+2
+1
+6
+P_SUMA
+0
+1
+52
+Este programa permite calcular la suma de N numeros 
+4
+1
+58
+" SUMA: ingrese la cantidad de numeros que van a sumarse "
+5
+1
+1
+N
+6
+1
+4
+SUMA
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+27
+" ingrese el valor de suma"
+5
+1
+3
+NUM
+6
+1
+4
+SUMA
+8
+SUMA+NUM
+10
+4
+1
+36
+" la suma de los numeros es :", SUMA
+3
+2
+1
+7
+P_RESTA
+0
+1
+48
+Este subprograma se encarga de restar N numeros 
+4
+1
+58
+"RESTA:ingrese la cantidad de números que se van a restar"
+5
+1
+1
+N
+6
+1
+5
+RESTA
+1
+0
+8
+1
+1
+I
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+30
+" ingrese el valora a restar "
+5
+1
+3
+num
+7
+0
+1
+4
+i =1
+6
+1
+5
+RESTA
+9
+RESTA-num
+13
+6
+1
+5
+RESTA
+3
+num
+13
+4
+1
+31
+" la resta es igual a :", RESTA
+10
+3
+2
+1
+16
+P_MULTIPLICACION
+0
+1
+46
+Este programa me permite multiplicar N números
+4
+1
+48
+"MULTIPLICACIÓN: ingrese la cantidad de números"
+5
+1
+1
+N
+6
+1
+5
+TOTAL
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+33
+" ingrese el valor a multiplicar"
+5
+1
+3
+num
+7
+0
+1
+3
+i=1
+6
+1
+5
+TOTAL
+9
+TOTAL*num
+13
+6
+1
+5
+TOTAL
+3
+num
+13
+10
+4
+1
+42
+" El total de la multiplicacion es:",TOTAL
+3
+2
+1
+9
+P_DIVIDIR
+0
+1
+32
+Este programa divide dos números
+6
+1
+8
+DIVISION
+1
+0
+4
+1
+59
+" DIVIDIR: Ingrese el valor del dividendo y el del divisor"
+5
+1
+17
+DIVIDENDO,DIVISOR
+9
+1
+9
+DIVISOR=0
+4
+1
+70
+" ERROR el divisor NO pude ser cero ingrese un valor diferente a cero"
+5
+1
+7
+DIVISOR
+11
+6
+1
+8
+DIVISION
+17
+DIVIDENDO/DIVISOR
+4
+1
+70
+" La división entre ", DIVIDENDO,"y",DIVISOR," es igual a :", DIVISION
+3

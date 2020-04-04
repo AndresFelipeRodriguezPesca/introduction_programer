@@ -1,0 +1,53 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+161
+"este programa es creado por felipe rodriguez y se encarga de calcular cuántos pasajeros fueron transportados y cuánto dinero obtuvo ingrese las paradas del bus"
+5
+1
+1
+N
+6
+1
+12
+dinero_total
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+48
+"cúantos pasajeros se subieron en la parada: ",i
+5
+1
+1
+S
+6
+1
+12
+dinero_total
+20
+(S*150)+dinero_total
+10
+4
+1
+37
+" el dinero total es :", dinero_total
+1

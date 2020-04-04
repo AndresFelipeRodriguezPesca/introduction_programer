@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+85
+"este programa fue creado por felipe rodríguez y determina el número de dias del mes"
+4
+1
+26
+"digite el número deseado"
+5
+1
+3
+mes
+7
+0
+1
+16
+mes<=0 or mes>12
+7
+0
+1
+61
+mes=1 or mes=3 or mes=5 or mes=7 or mes=8 or mes=10 or mes=12
+7
+0
+1
+33
+mes=4 or mes=6 or mes=9 or mes=11
+4
+1
+27
+"este mes tiene 28/29 dias"
+13
+4
+1
+25
+" este mes tiene 30 dias"
+13
+13
+4
+1
+25
+"este mes tiene 31  dias"
+13
+13
+4
+1
+7
+"error"
+13
+1
